@@ -1,4 +1,17 @@
-# CurrencyApp
+# Currency List app [Angular]
+
+The application lists currencies supplied from the server API. Editing, deleting and adding new currencies in the list is available.
+
+![currency-list-thumb](https://user-images.githubusercontent.com/31347233/53752222-60c0f200-3eae-11e9-8f2d-5b547a749486.jpg)
+
+## Project Objectives
+
+- table view of currencies using Angular 2+ framework (preferably using Angular CLI)
+- edit and deleting entries from the list, as well as, adding new ones
+- currency list provided in the json file, http requests should be simulated
+- listing load and changes should be implemented with separate service
+- table should be made using components
+- design should be copied from the provided image
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.7.
 

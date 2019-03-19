@@ -8,8 +8,6 @@ import { ServerService } from './server.service';
 })
 
 export class AppComponent {
-  contenteditable: number = null;
-
   private currencyList = [
     {
       "id": 38,
